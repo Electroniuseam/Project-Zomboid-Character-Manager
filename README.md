@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Project-Zomboid-Character-Manager` · Updated: 2026-10-07
+`Project-Zomboid-Character-Manager` · Updated: 2026-10-24
 
 **Tags:** `project-zomboid` `character` `survival` `sandbox` `lua`
